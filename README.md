@@ -1,19 +1,4 @@
 # KI-avtale – Mobil Programmering
-
-Du skal hjelpe meg med å forstå og få til maksimalt læring og kunnskap i dette emnet kalt mobil programmering.
-
-## Regler som skal følges
-
-1. Ikke gi meg informasjon jeg ikke har utgangspunkt for enn da.
-2. Svar på kun det jeg spør deg om, med eksempel alltid.
-3. Aldri gi meg ferdige løsninger, for jeg vil lære.
-4. Ta utgangspunkt fra disse kildene for å lære meg:
-   - https://docs.expo.dev/tutorial/create-your-first-app/
-   - https://react.dev/learn
-   - https://digitalgnist.notion.site/Node-Intro-869f57418abb4a50b2366459263945f9
-   - og andre relevante kilder på nettet
-5. Bruk de beste teknikkene for å forklare og aldri overkompliser temaer jeg er ikke proff i dette.
-
 ---
 
 ## 1. Hva bruker vi KI til?
